@@ -1,0 +1,53 @@
+body {
+    background-color: midnightblue;
+    margin: 0px;
+    font-family: arial, helvetica, sans-serif;
+}
+
+.header {
+    background-color: skyblue;
+    color: midnightblue;
+    font-size: 200%;
+    font-family: tahoma;
+    text-align: center;
+    padding: 20px;
+    text-decoration: underline;
+}
+
+.nav {
+    background-color: darkblue;
+    float: center;
+    font-size: 200%;
+    font-family: arial;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.div1 {
+    float: left;
+    font-family: arial;
+    padding: 10px;
+    width: 33.33%;
+}
+
+.div2 {
+    background-color: darkblue;
+    color: white;
+    margin-top: 30px;
+    float: right;
+    font-family: arial;
+    padding: 10px;
+    width: 33.33%;
+}
+
+.footer {
+    background-color: skyblue;
+    color: midnightblue;
+    margin-top: 460px;
+    padding: 5px;
+    font-family: arial;
+    text-align: center;
+}

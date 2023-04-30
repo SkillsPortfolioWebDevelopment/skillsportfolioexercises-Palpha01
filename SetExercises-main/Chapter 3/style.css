@@ -1,0 +1,36 @@
+div {
+    display: inline-block;
+    font-size: 20px;
+    margin: 25px;
+    border: 4px solid black;
+    width: 200px;
+    line-height: 200px;
+    text-align: center;
+    padding: 100px -50px;
+}
+
+body {
+    margin: 100px auto;
+    width: max-content;
+}
+
+div#A {
+    border-color: gold;
+    box-shadow: 5px 5px 5px black;
+}
+
+div#B {
+    border-color: royalblue;
+    box-shadow: 5px 5px 5px black inset;
+}
+
+div#C {
+    border-color: red;
+    text-shadow: 3px 3px;
+    box-shadow: 5px 5px 1px black;
+}
+
+div#D {
+    border-color: lime;
+    filter: drop-shadow(10px 10px 4px black);
+}

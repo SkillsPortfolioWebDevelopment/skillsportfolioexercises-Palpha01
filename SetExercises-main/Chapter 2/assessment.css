@@ -1,0 +1,28 @@
+.menu {
+    background-color: maroon;
+    overflow: hidden;
+}
+
+.menu a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 15px 17px;
+    text-decoration: solid;
+    font-size: 17px;
+}
+
+.menu a:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.menu a.active {
+    background-color: gold;
+    color: black;
+}
+
+footer {
+    margin-top: 500px;
+    background-color: maroon;
+}

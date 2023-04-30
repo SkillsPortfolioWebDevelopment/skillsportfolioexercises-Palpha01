@@ -1,0 +1,21 @@
+body {
+    margin: 40px;
+    text-align: center;
+    background-image: url(Electric.screen.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: auto;
+    height: auto;
+}
+
+header {
+    width: 100%;
+    background-color: skyblue;
+    color: darkblue;
+    font-weight: bold;
+}
+
+video {
+    width: 500px;
+}

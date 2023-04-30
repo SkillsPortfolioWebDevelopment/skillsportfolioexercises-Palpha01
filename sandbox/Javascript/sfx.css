@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(161, 100, 223);
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 110vh;
+    overflow: hidden;
+    margin: 0;
+}
